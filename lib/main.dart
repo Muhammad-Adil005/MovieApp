@@ -1,13 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:movieapp/screens/SplashScreen.dart';
-import 'package:movieapp/screens/movie_details_screen.dart';
-import 'package:movieapp/screens/movie_list_screen.dart';
-import 'package:movieapp/screens/movie_search_screen.dart';
-import 'package:movieapp/screens/payment_screen.dart';
-import 'package:movieapp/screens/result_found_screen.dart';
-import 'package:movieapp/screens/select_seat_screen.dart';
-import 'package:movieapp/screens/ticket_screen.dart';
 
 void main() {
   runApp(MyApp());

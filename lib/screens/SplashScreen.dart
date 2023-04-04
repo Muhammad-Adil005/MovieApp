@@ -1,7 +1,6 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
-import 'package:movieapp/screens/movie_details_screen.dart';
 
 import '../bottomNavigationBar/UserBottomNavigationBar.dart';
 
